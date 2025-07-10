@@ -48,7 +48,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+
 - GitHub: [@prakshil](https://github.com/prakshil)
 
 ---
