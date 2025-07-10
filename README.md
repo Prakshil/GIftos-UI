@@ -33,12 +33,7 @@ A modern and responsive gift shop website built with HTML and CSS, featuring a c
 2. Open `index.html` in your web browser
 3. Enjoy exploring the gift shop website!
 
-## 📱 Browser Compatibility
 
-- Chrome (Recommended)
-- Firefox
-- Safari
-- Edge
 
 ## 🎨 Customization
 
